@@ -1,2 +1,2 @@
-# kiwiscards.github.io
-Kiwi's Cards is a safe haven for Mak and Rem's card collection!
+# Welcome to Kiwi's Cards 
+## Kiwi's Cards is the safe haven for Mak and Remedi's card collection
